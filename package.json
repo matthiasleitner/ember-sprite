@@ -47,10 +47,10 @@
     "spritesheet"
   ],
   "dependencies": {
-    "broccoli-concat": "0.0.11",
+    "broccoli-concat": "0.0.12",
     "broccoli-file-remover": "^0.2.3",
-    "broccoli-merge-trees": "^0.1.4",
-    "broccoli-sprite": "^0.1.0",
-    "broccoli-static-compiler": "^0.1.4"
+    "broccoli-merge-trees": "0.2.1",
+    "broccoli-sprite": "0.1.0",
+    "broccoli-static-compiler": "0.2.1"
   }
 }
